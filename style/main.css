@@ -1,0 +1,32 @@
+body {
+  font-family: "Verdana", sans-serif;
+  background: url("../img/skulls.png");
+  width: 100%;
+  color: #DA5400; }
+
+#context {
+  width: 80%;
+  margin-top: 15%;
+  border-radius: 15px; }
+
+a {
+  color: #DA5400; }
+
+h1 {
+  color: #DA5400;
+  font-size: 6em;
+  margin: 5% auto;
+  text-align: center; }
+
+.nav {
+  width: 90%;
+  margin: 30px auto; }
+  .nav div ul {
+    list-style: none; }
+
+.icon {
+  color: red;
+  height: 70px;
+  width: 70px; }
+
+/*# sourceMappingURL=main.css.map */
